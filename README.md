@@ -39,4 +39,4 @@ Record a short video of your abstract art animation to display here on your READ
 
 ## Description
 
-Write a description of your project here. In your description, include as many vocab words from our class to explain your User Story, the chosen dataset and how your project addressed that users goals. If your project used the Scanner class for user input, explain how the user will interact with your project.
+My project utilizes a dataset of temperature values to create a program which gives relative amount of days between moderate temperatures, high temperatures, and low temperatures.
